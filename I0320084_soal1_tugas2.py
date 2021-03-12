@@ -2,14 +2,14 @@
 print("Menghitung Luas Persegi Panjang")
 
 #input nilai panjang dan lebar
-panjang=float(input("Masukkan Panjang : "))
-lebar=float(input("Masukkan Lebar :"))
+pjg =float(input("Masukkan Panjang Persegi Panjang : "))
+lbr =float(input("Masukkan Lebar Persegi Panjang :"))
 
 #proses kalkulasi
-luas=panjang*lebar
+luas_pp =pjg*lbr
 
 #menampilkan hasil kalkulasi ke layar
-print("Luas Persegi Panjang : ", luas)
+print("Luas Persegi Panjang : ", luas_pp)
 
 print("---------------------------------------")
 
